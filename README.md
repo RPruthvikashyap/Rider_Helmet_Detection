@@ -22,6 +22,7 @@ not wearing helmet
 ![image](https://github.com/RPruthvikashyap/Rider_Helmet_Detection/assets/70802964/56527012-418a-41b7-95d4-141b32e25036)
 
 wearing helmet
+
 ![image](https://github.com/RPruthvikashyap/Rider_Helmet_Detection/assets/70802964/7c877be5-2576-46db-b5f8-09e9fabd78f0)
 
 ## VIDEO DETECTION
